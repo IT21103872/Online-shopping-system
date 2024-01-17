@@ -1,1 +1,2 @@
-# Online-shopping-system
+# ADOS
+E commerce mobile app
